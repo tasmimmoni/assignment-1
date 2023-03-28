@@ -3,3 +3,26 @@ body {
 
 
 }
+
+.header {
+    text-align: center;
+    color: white;
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+#head {
+    font-size: 55px;
+}
+
+.header-part a {
+    text-decoration: none;
+    background-color: brown;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white;
+
+}
