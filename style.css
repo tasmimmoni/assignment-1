@@ -79,3 +79,37 @@ body {
 
 
 }
+
+.donation {
+    display: flex;
+}
+
+.dona h1 {
+    font-size: 40px;
+}
+
+.dona a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    padding: 20px 40px;
+    background-color: #df2f2f;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.dona {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.tion {
+    text-align: center;
+}
+
+foot {
+    text-align: center;
+    font-size: 40px;
+    background-image: -o-linear-gradient(red);
+
+}
